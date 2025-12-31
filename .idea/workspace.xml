@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09ad3d0d-dbb6-4f79-a391-2e1ab54966dc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Glycosense-Non-Invasive-Glucose-Monitoring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Glycosense-Non-Invasive-Glucose-Monitoring.iml" afterDir="false" />
-    </list>
+    <list default="true" id="09ad3d0d-dbb6-4f79-a391-2e1ab54966dc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "genfre"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;genfre&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://genfre@github.com/genfre/Glycosense-Non-Invasive-Glucose-Monitoring.git",
-    "accountId": "ff5d8ed4-e5ab-4246-bc1e-c77b89ec0aa8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://genfre@github.com/genfre/Glycosense-Non-Invasive-Glucose-Monitoring.git&quot;,
+    &quot;accountId&quot;: &quot;ff5d8ed4-e5ab-4246-bc1e-c77b89ec0aa8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
